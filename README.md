@@ -1,5 +1,5 @@
 # Anwar Mohammed
-mohaa33@mcmaster.ca * 647 808 8782 
+e-mail: mohaa33@mcmaster.ca 
 
 ## Education
 
