@@ -1,14 +1,17 @@
 # Anwar Mohammed
 e-mail: mohaa33@mcmaster.ca 
+LinkedIn: https://www.linkedin.com/in/anwar-mohammed-067613114/
+
+PhD student in the Department of Political Science at McMaster University. Research areas of interest include Canadian politics, disruptive technologies, global governance, and public policy. 
 
 
 ## Education
 
 2020-   Ph.D., Political Science, Comparative Public Policy, McMaster University
 
-2018-2019    Master of Arts, Political Science, Major: Canadian Politics, Minor: Public Policy and Administration, McMaster University
+2018-2019    M.A., Political Science, McMaster University
 
-2012-2016    Bachelor of Health Studies, Health Policy,	York University
+2012-2016    B.A., Health Policy, York University
 
 
 ## Professional Experience
