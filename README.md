@@ -3,60 +3,59 @@ e-mail: mohaa33@mcmaster.ca
 
 ## Education
 
-2020-       Ph.D., Political Science
-            Comparative Public Policy
+2020-       Ph.D., Political Science,
+            Comparative Public Policy,
             McMaster University
 
-2018-2019   Master of Arts, Political Science		
-            Major: Canadian Politics, Minor: Public Policy and Administration
+2018-2019   Master of Arts, Political Science,		
+            Major: Canadian Politics, Minor: Public Policy and Administration,
             McMaster University
 
-2012-2016   Bachelor of Health Studies, Health Policy			 
+2012-2016   Bachelor of Health Studies, Health Policy,			 
             York University
 
 ## Professional Experience
 
-2020-		           Research Analyst
-		               Vox Pop Labs
+2020-		Research Analyst, Vox Pop Labs
 
-2020-		           Research Assistant							  	 
-                   McMaster University
+2020-		Research Assistant, McMaster University
 
-2019-2019	         Research Assistant
-                   Vox Pop Labs	
+2019-2019	Research Assistant, Vox Pop Labs	
 										
-2018-2019	         Teaching Assistant
-	                 McMaster University
+2018-2019	Teaching Assistant, McMaster University
 
-2017-2018	         Research and Operations Analyst
-                   Thorek/Scott and Partners								                        
+2017-2018	Research and Operations Analyst, Thorek/Scott and Partners								                        
 
-2014-2016	         Food Bank Operations Coordinator
-		               York Federations of Students
+2014-2016	Food Bank Operations Coordinator, York Federations of Students
 
 ## Publications
 
-2020 	“How do Canadians react to new information from public health officials?” Canadian Public Policy. (With Regan M. Johnston and Clifton van der Linden).
+Peer-reviewed articles
 
-2020		“Cash and the coronavirus.” The Conversation Canada.
+2020	“Public responses to policy change: The case of mask adoption in Canada during COVID-19.” Canadian Public Policy. (With Regan M. Johnston and Clifton van der Linden).
 
-2020		“A national digital currency has serious privacy implications.” The Conversation Canada. 
+(Manuscript under review).	“Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” Gender & Politics. (With Regan M. Johnston and Clifton van der Linden).
 
-2019 	“Canada must look beyond STEM and diversify its AI workforce.” Policy Options. (With Clifton van der Linden and Vass Bednar).
+Other refereed contributions
 
-2020	“TBD” Politics & Gender. (With Regan M. Johnston and Clifton van der Linden).
+2020	“Cash and the coronavirus:COVID-19 is changing our relationship with money.” The Conversation Canada. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
+
+2020	“A national digital currency has serious privacy implications.” The Conversation Canada. URL: https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520
+
+2019 	“Canada must look beyond STEM and diversify its AI workforce.” Policy Options. (With Clifton van der Linden and Vass Bednar). URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
 
 
+## Conferences and other Speaking Engagements
 
-## Speaking Engagements
+2020	Interview with Mankiran Aujla. Spice Radio. CJRJ, July 10.
 
-2020	“.” Centre for Research in Empirical Social Science, McMaster University. Hamilton, ON.
+2020	“Using GitHub to host a free project website.” Productivity During Pandemic Seminar Series. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
 
 2020	“Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON. (Cancelled due to COVID-19).
 
-2019	“Blockchain-based Governance.” Mapping the Global Dimensions of Policy, McMaster University. Hamilton, ON.	
+2019	“Blockchain-based Governance.” Mapping the Global Dimensions of Policy, McMaster University. Hamilton, ON: March 8-9.	
 
-Awards
+## Awards
 
 2020 		Mitacs Accelerate Doctoral Fellowship. McMaster University.
 2020		Graduate Scholarship. McMaster University.
