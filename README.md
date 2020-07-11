@@ -25,13 +25,13 @@ e-mail: mohaa33@mcmaster.ca
 
 ## Publications
 
-Peer-reviewed articles
+<i> Peer-reviewed articles </i>
 
 2020    “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” Canadian Public Policy. (With Regan M. Johnston and Clifton van der Linden).
 
 (Manuscript under review)    “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” Gender & Politics. (With Regan M. Johnston and Clifton van der Linden).
 
-Other refereed contributions
+<i> Other refereed contributions </i>
 
 2020    “Cash and the coronavirus:COVID-19 is changing our relationship with money.” The Conversation Canada. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
 
