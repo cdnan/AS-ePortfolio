@@ -34,7 +34,7 @@ Peer-reviewed articles
 
 2020	“Public responses to policy change: The case of mask adoption in Canada during COVID-19.” Canadian Public Policy. (With Regan M. Johnston and Clifton van der Linden).
 
-(Manuscript under review).	“Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” Gender & Politics. (With Regan M. Johnston and Clifton van der Linden).
+(Manuscript under review)	“Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” Gender & Politics. (With Regan M. Johnston and Clifton van der Linden).
 
 Other refereed contributions
 
@@ -45,7 +45,7 @@ Other refereed contributions
 2019 	“Canada must look beyond STEM and diversify its AI workforce.” Policy Options. (With Clifton van der Linden and Vass Bednar). URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
 
 
-## Conferences and other Speaking Engagements
+## Conferences, Workshops, and other Speaking Engagements
 
 2020	Interview with Mankiran Aujla. Spice Radio. CJRJ, July 10.
 
@@ -53,7 +53,7 @@ Other refereed contributions
 
 2020	“Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON. (Cancelled due to COVID-19).
 
-2019	“Blockchain-based Governance.” Mapping the Global Dimensions of Policy, McMaster University. Hamilton, ON: March 8-9.	
+2019	“Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
 
 ## Awards
 
