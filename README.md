@@ -1,6 +1,7 @@
 # Anwar Mohammed
 e-mail: mohaa33@mcmaster.ca 
 
+
 ## Education
 
 2020-    Ph.D., Political Science, Comparative Public Policy, McMaster University
@@ -8,6 +9,7 @@ e-mail: mohaa33@mcmaster.ca
 2018-2019    Master of Arts, Political Science, Major: Canadian Politics, Minor: Public Policy and Administration, McMaster University
 
 2012-2016    Bachelor of Health Studies, Health Policy,	York University
+
 
 ## Professional Experience
 
@@ -19,9 +21,6 @@ e-mail: mohaa33@mcmaster.ca
 										
 2018-2019    Teaching Assistant, McMaster University
 
-2017-2018    Research and Operations Analyst, Thorek/Scott and Partners								                        
-
-2014-2016    Food Bank Operations Coordinator, York Federations of Students
 
 ## Publications
 
@@ -49,6 +48,7 @@ e-mail: mohaa33@mcmaster.ca
 2020    “Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON: Cancelled due to COVID-19.
 
 2019    “Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
+
 
 ## Awards
 
