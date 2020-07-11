@@ -28,9 +28,9 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 <i> Peer-reviewed articles </i>
 
-2020. “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy</i>. (With Regan M. Johnston and Clifton van der Linden).
+2020 “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy</i>. (With Regan M. Johnston and Clifton van der Linden).
 
-(Manuscript under review). “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” <i>Gender & Politics</i>. (With Regan M. Johnston and Clifton van der Linden).
+(Manuscript under review) “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” <i>Gender & Politics</i>. (With Regan M. Johnston and Clifton van der Linden).
 
 <i> Other refereed contributions </i>
 
