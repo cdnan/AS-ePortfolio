@@ -35,28 +35,28 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 <i> Other refereed contributions </i>
 
-2020. “Cash and the coronavirus:COVID-19 is changing our relationship with money.” <i>The Conversation Canada</i>. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
+2020 “Cash and the coronavirus:COVID-19 is changing our relationship with money.” <i>The Conversation Canada</i>. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
 
-2020. “A national digital currency has serious privacy implications.” <i>The Conversation Canada</i>. URL: https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520
+2020 “A national digital currency has serious privacy implications.” <i>The Conversation Canada</i>. URL: https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520
 
-2019. “Canada must look beyond STEM and diversify its AI workforce.” <i>Policy Options</i>. (With Clifton van der Linden and Vass Bednar). URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
+2019 “Canada must look beyond STEM and diversify its AI workforce.” <i>Policy Options</i>. (With Clifton van der Linden and Vass Bednar). URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
 
 
 ## Speaking Engagements
 
 <i> Academic Workshops </i>
 
-2020. “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
+2020 “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
 
 <i> Conferences </i>
 
-2020. “Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON: Cancelled due to COVID-19.
+2020 “Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON: Cancelled due to COVID-19.
 
-2019. “Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
+2019 “Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
 
 <i> Media </i>
 
-2020. Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
+2020 Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
 
 
 ## Awards
