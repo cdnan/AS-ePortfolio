@@ -4,22 +4,22 @@ e-mail: mohaa33@mcmaster.ca
 
 ## Education
 
-<b>2020-</b>    Ph.D., Political Science, Comparative Public Policy, McMaster University
+2020-   Ph.D., Political Science, Comparative Public Policy, McMaster University
 
-<b>2018-2019</b>    Master of Arts, Political Science, Major: Canadian Politics, Minor: Public Policy and Administration, McMaster University
+2018-2019    Master of Arts, Political Science, Major: Canadian Politics, Minor: Public Policy and Administration, McMaster University
 
-<b>2012-2016</b>    Bachelor of Health Studies, Health Policy,	York University
+2012-2016    Bachelor of Health Studies, Health Policy,	York University
 
 
 ## Professional Experience
 
-<b>2020-</b>    Research Analyst, Vox Pop Labs
+2020-    Research Analyst, Vox Pop Labs
 
-<b>2020-</b>    Research Assistant, McMaster University
+2020    Research Assistant, McMaster University
 
-<b>2019-2019</b>    Research Assistant, Vox Pop Labs	
+2019-2019    Research Assistant, Vox Pop Labs	
 										
-<b>2018-2019</b>    Teaching Assistant, McMaster University
+2018-2019    Teaching Assistant, McMaster University
 
 
 ## Publications
