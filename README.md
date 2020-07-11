@@ -8,9 +8,9 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 2020–   Ph.D., Political Science, Comparative Public Policy, McMaster University
 
-2018–2019    M.A., Political Science, McMaster University
+2018 – 2019    M.A., Political Science, McMaster University
 
-2012–2016    B.A., Health Policy, York University
+2012 – 2016    B.A., Health Policy, York University
 
 
 ## Professional Experience
@@ -19,9 +19,9 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 2020–    Research Assistant, McMaster University
 
-2019–2019    Research Assistant, Vox Pop Labs	
+2019 – 2019    Research Assistant, Vox Pop Labs	
 										
-2018–2019    Teaching Assistant, McMaster University
+2018 – 2019    Teaching Assistant, McMaster University
 
 
 ## Publications
