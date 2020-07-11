@@ -58,8 +58,8 @@ e-mail: mohaa33@mcmaster.ca
 
 ## Awards
 
-2020. Mitacs Accelerate Doctoral Fellowship. McMaster University.
+<li> 2020. Mitacs Accelerate Doctoral Fellowship. McMaster University.</li>
 
-2020. Graduate Scholarship. McMaster University.
+<li> 2020. Graduate Scholarship. McMaster University. </li>
 
-2018. Graduate Scholarship. McMaster University.
+<li> 2018. Graduate Scholarship. McMaster University. </li>
