@@ -6,11 +6,11 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 ## Education
 
-2020–   Ph.D., Political Science, Comparative Public Policy, McMaster University
+2020–   <b>Ph.D.</b>, Political Science, Comparative Public Policy, McMaster University
 
-2018 – 2019    M.A., Political Science, McMaster University
+2018 – 2019    <b>M.A.</b>, Political Science, McMaster University
 
-2012 – 2016    B.A., Health Policy, York University
+2012 – 2016    <b>B.H.S.</b>, Health Policy, York University
 
 
 ## Professional Experience
@@ -34,7 +34,7 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 <i> Other refereed contributions </i>
 
-2020 “Cash and the coronavirus:COVID-19 is changing our relationship with money.” <i>The Conversation Canada</i>. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
+2020 “Cash and the coronavirus: COVID-19 is changing our relationship with money.” <i>The Conversation Canada</i>. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
 
 2020 “A national digital currency has serious privacy implications.” <i>The Conversation Canada</i>. URL: https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520
 
@@ -56,6 +56,7 @@ PhD student in the Department of Political Science at McMaster University. Resea
 <i> Media </i>
 
 2020 Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
+<li> Interviewed about our changing relationship with money during the pandemic. </li>
 
 
 ## Awards
