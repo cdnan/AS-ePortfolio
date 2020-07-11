@@ -54,12 +54,12 @@ e-mail: mohaa33@mcmaster.ca
 <i> Media </i>
 
 2020. Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
-<li> Interviewed about our changing relationship with money during the pandemic. </li>
+
 
 ## Awards
 
-2020. Mitacs Accelerate Doctoral Fellowship. <i>McMaster University</i>.
+2020. Mitacs Accelerate Doctoral Fellowship. McMaster University.
 
-2020. Graduate Scholarship. <i>McMaster University</i>.
+2020. Graduate Scholarship. McMaster University.
 
-2018. Graduate Scholarship. <i>McMaster University</i>.
+2018. Graduate Scholarship. McMaster University.
