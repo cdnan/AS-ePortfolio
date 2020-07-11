@@ -39,16 +39,22 @@ e-mail: mohaa33@mcmaster.ca
 2019    “Canada must look beyond STEM and diversify its AI workforce.” <i>Policy Options</i>. (With Clifton van der Linden and Vass Bednar). URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
 
 
-## Conferences, Workshops, and other Speaking Engagements
+## Speaking Engagements
 
-2020    Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
+<i> Academic Workshops </i>
 
 2020    “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
+
+<i> Conferences </i>
 
 2020    “Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON: Cancelled due to COVID-19.
 
 2019    “Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
 
+<i> Media </i>
+
+2020    Interview with Mankiran Aujla. <i>Spice Radio</i>. CJRJ, July 10.
+<li> Interviewed about our changing relationship with money during the pandemic. </li>
 
 ## Awards
 
