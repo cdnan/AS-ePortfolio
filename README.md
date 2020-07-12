@@ -44,7 +44,7 @@ van der Linden, Clifton, Vass Bednar, and <b>Anwar Mohammed</b>. 2020. “Canada
 
 <i> Academic Workshops </i>
 
-Johnston, Regan M., and <b>Anwar Mohammed</b>. 2020. “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
+Mohammed, Anwar and Regan M. Johnston. 2020. “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
 
 <i> Conferences </i>
 
