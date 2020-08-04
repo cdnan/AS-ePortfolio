@@ -14,7 +14,7 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 ## Professional Experience
 
-2020–    Research Analyst, Vox Pop Labs
+2020–    Analyst, Vox Pop Labs
 
 2020–    Research Assistant, McMaster University
 
@@ -27,11 +27,11 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 <i> Peer-reviewed articles </i>
 
-<b>Mohammed, Anwar</b>, Regan M. Johnston, and Clifton van der Linden. 2020. “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy/Analyse de politiques</i>. (Accepted).
+<b>Mohammed, Anwar</b>, Regan M. Johnston, and Clifton van der Linden. 2020. “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy/Analyse de politiques</i>. DOI: https://doi.org/10.3138/cpp.2020-089
 
-Johnston, Regan M., <b>Anwar Mohammed</b>, and Clifton van der Linden. 2020. “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” <i>Gender & Politics</i>. (Manuscript under review).
+Johnston, Regan M., <b>Anwar Mohammed</b>, and Clifton van der Linden. 2020. “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” <i>Politics & Gender</i>. DOI: http://dx.doi.org/10.1017/S1743923X20000574
 
-<i> Other refereed contributions </i>
+<i> Other non-refereed contributions </i>
 
 <b> Mohammed, Anwar</b>. 2020. “Cash and the coronavirus: COVID-19 is changing our relationship with money.” The Conversation Canada, July 7. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
 
