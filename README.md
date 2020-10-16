@@ -15,6 +15,7 @@ PhD student in the Department of Political Science at McMaster University. Resea
 ## Professional Experience
 
 2020– 	Teaching Assistant, McMaster University
+
 2020–    Data Analyst, Vox Pop Labs
 
 2020 - 2020    Research Assistant, McMaster University
