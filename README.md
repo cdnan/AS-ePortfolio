@@ -1,6 +1,6 @@
 # Anwar Sheluchin
 
-PhD student in the Department of Political Science at McMaster University. Research interests include public policy, comparative political economy, global financial governance and disruptive technologies. 
+Anwar is a PhD Student in the Department of Political Science at McMaster University. She holds a BA in Health Policy from York University and a MA in Political Science from McMaster University. Anwar's research interests include public policy, political economy, global financial governance and disruptive technologies. Her doctoral research examines the political economy of cryptocurrency regulations.
 
 
 ## Education
@@ -9,10 +9,12 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 2018 – 2019    M.A., Political Science, McMaster University
 
-2012 – 2016    B.H.S., Health Policy, York University
+2012 – 2016    B.A., Health Policy, York University
 
 
 ## Professional Experience
+
+2021-	Research Assistant, McMaster Univeristy 
 
 2020 – 2021 	Teaching Assistant, McMaster University
 
@@ -27,7 +29,7 @@ PhD student in the Department of Political Science at McMaster University. Resea
 
 ## Publications
 
-<i> Peer-reviewed articles </i>
+<i> Peer-reviewed journal articles </i>
 
 <b>Sheluchin, Anwar</b>, Regan M. Johnston, and Clifton van der Linden. 2020. “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy/Analyse de politiques</i>. DOI: https://doi.org/10.3138/cpp.2020-089
 
@@ -37,7 +39,7 @@ Johnston, Regan M., <b>Anwar Sheluchin</b>, and Clifton van der Linden. 2020. �
 
 Porter, Tony and Anwar Sheluchin. 2021. "Business and financial regulation." In <i>Handbook of Business and Public Policy</i>, edited by Aynsley Kellow, Tony Porter, and Karsten Ronit. UK: Edward Elgar Publishing.
 
-<i> Other non-refereed contributions </i>
+<i> Popular press </i>
 
 <b> Sheluchin, Anwar</b>. 2020. “Cash and the coronavirus: COVID-19 is changing our relationship with money.” The Conversation Canada, July 7. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
 
@@ -46,11 +48,7 @@ Porter, Tony and Anwar Sheluchin. 2021. "Business and financial regulation." In 
 van der Linden, Clifton, Vass Bednar, and <b>Anwar Sheluchin</b>. 2020. “Canada must look beyond STEM and diversify its AI workforce.” Policy Options, January 29. URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
 
 
-## Speaking Engagements
-
-<i> Academic Workshops </i>
-
-Mohammed, Anwar and Regan M. Johnston. 2020. “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
+## Conference & Workshop Presentations
 
 <i> Conferences </i>
 
@@ -58,7 +56,15 @@ Savoie, Justin, and Anwar Sheluchin. 2021. "Behind the mask: examining complianc
 
 Mohammed, Anwar. “Who wants to be a partisan anyways? An Examination of Vote Choice and Political Partisanship in the 2019 Federal Election.” MapleMeth Conference, Western University. London, ON: Cancelled due to COVID-19.
 
-Mohammed, Anwar. 2019. “Blockchain-based Governance.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
+Mohammed, Anwar. 2019. “Blockchain-based Governance for Public Service Delivery.” Mapping the Global Dimensions of Policy 8, McMaster University. Hamilton, ON: March 8-9.	
+
+<i> Academic Workshops </i>
+
+Mohammed, Anwar and Regan M. Johnston. 2020. “Using GitHub to host a free project website.” <i>Productivity During Pandemic Seminar Series</i>. Centre for Research in Empirical Social Sciences, Hamilton, ON: June 3.
+
+<i> Invited Talks </i>
+
+Digital Society Lab. "Public responses to pandemic policy interventions: a survey of findings from the COVID-19 Monitor project." Research In Progress Seminar Series. McMaster University. Hamilton, ON: 10 February 2021.
 
 <i> Media </i>
 
