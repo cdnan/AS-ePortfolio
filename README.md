@@ -31,9 +31,9 @@ Anwar is a PhD Student in the Department of Political Science at McMaster Univer
 
 <i> Peer-reviewed journal articles </i>
 
-Sheluchin, Anwar, Regan M. Johnston, and Clifton van der Linden. 2020. “Public responses to policy change: The case of mask adoption in Canada during COVID-19.” <i>Canadian Public Policy/Analyse de politiques</i>. DOI: https://doi.org/10.3138/cpp.2020-089
+Sheluchin, Anwar, Regan M. Johnston, and Clifton van der Linden. 2020. [“Public responses to policy change: The case of mask adoption in Canada during COVID-19.”](https://doi.org/10.3138/cpp.2020-089) <i>Canadian Public Policy/Analyse de politiques</i> 46, no. S2: 119-126.  
 
-Johnston, Regan M., Anwar Sheluchin, and Clifton van der Linden. 2020. “Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.” <i>Politics & Gender</i>. DOI: http://dx.doi.org/10.1017/S1743923X20000574
+Johnston, Regan M., Anwar Sheluchin, and Clifton van der Linden. 2020. [“Evidence of exacerbated gender inequality in childcare obligations in Canada and Australia during the COVID-19 pandemic.”](http://dx.doi.org/10.1017/S1743923X20000574) <i>Politics & Gender</i> 3: 1-16. 
 
 <i> Book Chapters </i>
 
@@ -41,11 +41,11 @@ Porter, Tony and Anwar Sheluchin. 2021. "Business and financial regulation." In 
 
 <i> Popular press </i>
 
-Sheluchin, Anwar. 2020. “Cash and the coronavirus: COVID-19 is changing our relationship with money.” The Conversation Canada, July 7. URL: https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774
+Sheluchin, Anwar. 2020. [“Cash and the coronavirus: COVID-19 is changing our relationship with money.”](https://theconversation.com/cash-and-the-coronavirus-covid-19-is-changing-our-relationship-with-money-138774) The Conversation Canada, July 7. 
 
-Sheluchin, Anwar. 2020. “A national digital currency has serious privacy implications.” The Conversation Canada, February 5. URL: https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520
+Sheluchin, Anwar. 2020. [“A national digital currency has serious privacy implications.”](https://theconversation.com/a-national-digital-currency-has-serious-privacy-implications-130520) The Conversation Canada, February 5.
 
-van der Linden, Clifton, Vass Bednar, and Anwar Sheluchin. 2020. “Canada must look beyond STEM and diversify its AI workforce.” Policy Options, January 29. URL: https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/
+van der Linden, Clifton, Vass Bednar, and Anwar Sheluchin. 2020. [“Canada must look beyond STEM and diversify its AI workforce.”](https://policyoptions.irpp.org/magazines/january-2020/canada-must-look-beyond-stem-and-diversify-its-ai-workforce/) Policy Options, January 29.
 
 
 ## Conference & Workshop Presentations
@@ -64,12 +64,11 @@ Sheluchin, Anwar and Regan M. Johnston. 2020. “Using GitHub to host a free pro
 
 <i> Invited Talks </i>
 
-Digital Society Lab. "Public responses to pandemic policy interventions: a survey of findings from the COVID-19 Monitor project." Research In Progress Seminar Series. McMaster University. Hamilton, ON: 10 February 2021.
+Digital Society Lab. ["Public responses to pandemic policy interventions: a survey of findings from the COVID-19 Monitor project."](https://socialsciences.mcmaster.ca/political-science/news/research-in-progress-seminar-rips-february-10-2021) Research In Progress Seminar Series. McMaster University. Hamilton, ON: 10 February 2021.
 
 <i> Media </i>
 
 Sheluchin, Anwar. Interview with Mankiran Aujla. Spice Radio. CJRJ, July 10, 2020.
-<li> Interviewed about our changing relationship with money during the pandemic. </li>
 
 
 ## Awards
