@@ -31,6 +31,11 @@ This research provides the first baseline of Canadian cryptocurrency attitudes a
 
 <i>2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
 
+Can a politician's endorsement make you trust the Bank of Canada with digital currency? We know political messaging shapes public opinion, especially on complex topics where most people lack expertise. Central bank digital currencies (CBDCs) seemed like the perfect test case: a technical policy area where citizens should be particularly susceptible to guidance from trusted elites.
+
+But my experimental research revealed something surprising: it doesn't work that way. I designed a survey experiment exposing participants to different elite statements about CBDCs, from generic arguments to specific political endorsements. The theory was straightforward: elite cues should boost trust in the Bank of Canada to issue a digital currency. Instead, I found that most messaging fell flat, and political endorsements only moved the needle among partisans who already agreed with the speaker.
+
+This matters because central banks worldwide are navigating increasingly politicized environments. If elite cues can't effectively build public support for technical monetary innovations, even in a "most likely" scenario with low public knowledge, it suggests the mechanisms of elite influence are more fragile than we thought. The findings challenge assumptions about how central bank legitimacy is built and sustained in an era of growing skepticism toward institutions.
 
 ## Publications
 
