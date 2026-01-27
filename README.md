@@ -1,4 +1,4 @@
-# Anwar Sheluchin
+# About Me
 
 I am currently pursuing a Ph.D. in political science at McMaster University. My research interests broadly include Canadian and comparative politics, elections, public opinion, financial governance and digital currencies. My doctoral research involves investigating the institutional and political dynamics of digital currency adoption.
 
@@ -7,7 +7,7 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 
 ## Projects
 
-<i>1. Understanding Canadian Attitudes Toward Cryptocurrency</i>
+### 1. Understanding Canadian Attitudes Toward Cryptocurrency</i>
 
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
@@ -29,13 +29,15 @@ What makes this particularly interesting is the unexpected fault lines I discove
 This research provides the first baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
 
-<i>2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
+### 2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
 
-Can a politician's endorsement make you trust the Bank of Canada with digital currency? We know political messaging shapes public opinion, especially on complex topics where most people lack expertise. Central bank digital currencies (CBDCs) seemed like the perfect test case: a technical policy area where citizens should be particularly susceptible to guidance from trusted elites.
+How susceptible is public opinion to various arguments on CBDCs? To what extent do elite cues on CBDCs affect public trust in the Bank of Canada to issue one? We know political messaging shapes public opinion, especially on complex topics where most people lack expertise. Central bank digital currencies (CBDCs) seemed like the perfect test case: a technical policy area where citizens should be particularly susceptible to guidance from trusted elites.
 
-But my experimental research revealed something surprising: it doesn't work that way. I designed a survey experiment exposing participants to different elite statements about CBDCs, from generic arguments to specific political endorsements. The theory was straightforward: elite cues should boost trust in the Bank of Canada to issue a digital currency. Instead, I found that most messaging fell flat, and political endorsements only moved the needle among partisans who already agreed with the speaker.
+But my experimental research revealed something surprising: it doesn't always work that way. I designed a survey experiment (with my colleagues at the Digital Society Lab) exposing participants to different elite statements about CBDCs, from generic arguments to specific political endorsements. The theory was straightforward: 'positive' frames should boost trust in the Bank of Canada to issue a digital currency. Instead, I found that most messaging fell flat, and political endorsements only moved the needle among partisans who already agreed with the speaker.
 
 This matters because central banks worldwide are navigating increasingly politicized environments. If elite cues can't effectively build public support for technical monetary innovations, even in a "most likely" scenario with low public knowledge, it suggests the mechanisms of elite influence are more fragile than we thought. The findings challenge assumptions about how central bank legitimacy is built and sustained in an era of growing skepticism toward institutions.
+
+
 
 ## Publications
 
