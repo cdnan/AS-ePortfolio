@@ -12,8 +12,10 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
 
-<img width="1090" height="850" alt="image" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" />
-<img width="880" height="850" alt="image" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" />
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img width="1090" alt="awareness" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" style="height: auto;" />
+  <img width="880" alt="ownership" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" style="height: auto;" />
+</div>
 
 
 
