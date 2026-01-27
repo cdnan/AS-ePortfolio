@@ -1,4 +1,6 @@
-# About Me
+# Anwar Sheluchin
+
+## About Me
 
 I am currently pursuing a Ph.D. in political science at McMaster University. My research interests broadly include Canadian and comparative politics, elections, public opinion, financial governance and digital currencies. My doctoral research involves investigating the institutional and political dynamics of digital currency adoption.
 
