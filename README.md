@@ -9,7 +9,7 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 
 ## Projects
 
-### 1. Understanding Canadian Attitudes Toward Cryptocurrency</i>
+### 1. Understanding Canadian Attitudes Toward Cryptocurrency
 
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
@@ -31,7 +31,7 @@ What makes this particularly interesting is the unexpected fault lines I discove
 This research provides the first baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
 
-### 2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
+### 2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies
 
 How susceptible is public opinion to various arguments on CBDCs? To what extent do elite cues on CBDCs affect public trust in the Bank of Canada to issue one? We know political messaging shapes public opinion, especially on complex topics where most people lack expertise. Central bank digital currencies (CBDCs) seemed like the perfect test case: a technical policy area where citizens should be particularly susceptible to guidance from trusted elites.
 
