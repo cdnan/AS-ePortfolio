@@ -7,12 +7,15 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 
 ## Projects
 
-<i>Understanding Canadian Attitudes Toward Cryptocurrency</i>
+<i>1. Understanding Canadian Attitudes Toward Cryptocurrency</i>
 
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
-<img alt="awareness" src="https://github.com/user-attachments/assets/66b86c55-8260-46dd-96d5-721d189686ab" style="max-width: 560px; width: 100%; height: auto;" />
-<img alt="ownership" src="https://github.com/user-attachments/assets/c72abd29-609f-4248-ae0e-43f1445557f3" style="max-width: 560px; width: 100%; height: auto;" />
+
+<img width="1090" height="850" alt="image" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" />
+<img width="880" height="850" alt="image" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" />
+
+
 
 What makes this particularly interesting is the unexpected fault lines I discovered. Rather than simple left-right political divides, the real story is generational. Younger and older members of the same political parties hold dramatically different views on cryptocurrency. These generational rifts within party coalitions could reshape how Canada approaches fintech regulation in the years ahead.
 
@@ -20,7 +23,8 @@ What makes this particularly interesting is the unexpected fault lines I discove
 
 This research provides the first baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
-<i>The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
+
+<i>2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies</i>
 
 
 ## Publications
