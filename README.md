@@ -12,17 +12,19 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
 <div style="text-align: center;">
-  <img width="580" alt="awareness" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" style="height: auto;" />
+  <img width="560" alt="awareness" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" style="height: auto;" />
 </div>
 
 <div style="text-align: center;">
-  <img width="580" alt="ownership" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" style="height: auto;" />
+  <img width="560" alt="ownership" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" style="height: auto;" />
 </div>
 
 
 What makes this particularly interesting is the unexpected fault lines I discovered. Rather than simple left-right political divides, the real story is generational. Younger and older members of the same political parties hold dramatically different views on cryptocurrency. These generational rifts within party coalitions could reshape how Canada approaches fintech regulation in the years ahead.
 
-<img alt="attitudes" src="https://github.com/user-attachments/assets/2c146318-4090-417a-89f4-f0b029f5028d" style="max-width: 560px; width: 100%; height: auto;" />
+<div style="text-align: center;">
+  <img alt="attitudes" src="https://github.com/user-attachments/assets/2c146318-4090-417a-89f4-f0b029f5028d" style="max-width: 560px; width: 100%; height: auto;" />
+</div>
 
 This research provides the first baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
