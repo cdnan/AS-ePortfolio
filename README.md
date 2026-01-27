@@ -11,12 +11,12 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 
 Everyone has heard of cryptocurrency, but how many Canadians actually trust it? My research explored this question through original survey data collected across Ontario, Québec, and Alberta, uncovering a striking paradox: while awareness of digital currencies is nearly universal, actual ownership remains low and skepticism runs deep. 
 
-<img width="560" height="490" alt="awareness" src="https://github.com/user-attachments/assets/66b86c55-8260-46dd-96d5-721d189686ab" />
-<img width="560" height="490" alt="ownership" src="https://github.com/user-attachments/assets/c72abd29-609f-4248-ae0e-43f1445557f3" />
+<img alt="awareness" src="https://github.com/user-attachments/assets/66b86c55-8260-46dd-96d5-721d189686ab" style="max-width: 560px; width: 100%; height: auto;" />
+<img alt="ownership" src="https://github.com/user-attachments/assets/c72abd29-609f-4248-ae0e-43f1445557f3" style="max-width: 560px; width: 100%; height: auto;" />
 
 What makes this particularly interesting is the unexpected fault lines I discovered. Rather than simple left-right political divides, the real story is generational. Younger and older members of the same political parties hold dramatically different views on cryptocurrency. These generational rifts within party coalitions could reshape how Canada approaches fintech regulation in the years ahead.
 
-<img width="560" height="490" alt="attitudes" src="https://github.com/user-attachments/assets/2c146318-4090-417a-89f4-f0b029f5028d" />
+<img alt="attitudes" src="https://github.com/user-attachments/assets/2c146318-4090-417a-89f4-f0b029f5028d" style="max-width: 560px; width: 100%; height: auto;" />
 
 This research provides the first baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
