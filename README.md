@@ -15,7 +15,7 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 
 ## Publications
 
-<i> Peer-reviewed journal articles </i>
+<i> Peer-reviewed </i>
 
 Porter, Tony, and Anwar Sheluchin. 2022. [“Canada and global financial governance in a troubled global order.”](https://doi.org/10.1007/978-3-031-04368-0_6.) In: Carment, D., Macdonald, L., Paltiel, J. (eds) Canada and Great Power Competition: Canada and International Affairs. Palgrave Macmillan. 
 
