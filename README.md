@@ -82,6 +82,9 @@ van der Linden, Clifton, Vass Bednar, and Anwar Sheluchin. 2020. [“Canada must
 
 ## Featured Articles
 
+[Canada lags behind as world leaders move towards stablecoin](https://cfotech.ca/story/canada-lags-behind-as-world-leaders-move-towards-stablecoin). 3 September 2025.
+- Quoted in an article published on TechDay Canada, Canada's technology news network.
+
 [The Hidden Dangers of Buying Meme Coins You Need to Know](https://www.investopedia.com/top-risks-of-buying-meme-coins-8782157). 30 January 2025.
 - Interviewed for an article published on Investopedia, a financial news and education website. 
 
