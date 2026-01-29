@@ -6,7 +6,27 @@ order: 1
 
 ## About Me
 
-<img src="Image.png" alt="Anwar Sheluchin" style="float: right; margin-left: 20px; height: 200px; border-radius: 5px;">
+<style>
+  .profile-img {
+    display: block;
+    margin: 0 auto 20px; /* Center on mobile */
+    max-width: 100%;
+    height: auto;
+    width: 200px; /* Default width */
+    border-radius: 5px;
+  }
+
+  @media (min-width: 600px) {
+    .profile-img {
+      float: right;
+      margin-left: 20px;
+      margin-bottom: 10px;
+      margin-right: 0;
+    }
+  }
+</style>
+
+<img src="Image.png" alt="Anwar Sheluchin" class="profile-img">
 
 I am currently pursuing a Ph.D. in political science at McMaster University. My research interests broadly include Canadian and comparative politics, elections, public opinion, financial governance and digital currencies. My doctoral research involves investigating the institutional and political dynamics of digital currency adoption.
 
