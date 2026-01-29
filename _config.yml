@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+title: Anwar Sheluchin's ePortfolio
+description: >-
+  Ph.D. Candidate in Political Science, McMaster University.
+theme: minima
+github_username: cdnan
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - media.md
+plugins:
+  - jekyll-feed

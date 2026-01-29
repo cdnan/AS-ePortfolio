@@ -1,0 +1,43 @@
+current directory: /Users/anwarsheluchin/repos/AS-ePortfolio/vendor/bundle/ruby/4.0.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+/usr/local/opt/ruby/bin/ruby extconf.rb
+checking for __builtin_clz()... yes
+checking for __builtin_clzl()... yes
+checking for __builtin_clzll()... yes
+checking for float.h... yes
+checking for math.h... yes
+checking for stdbool.h... yes
+checking for stdlib.h... yes
+checking for x86intrin.h... yes
+checking for _lzcnt_u32() in x86intrin.h... yes
+checking for _lzcnt_u64() in x86intrin.h... yes
+checking for intrin.h... no
+checking for ruby/atomic.h... yes
+checking for ruby/internal/has/builtin.h... yes
+checking for ruby/internal/static_assert.h... yes
+checking for rb_complex_real() in ruby.h... yes
+checking for rb_complex_imag() in ruby.h... yes
+checking for rb_opts_exception_p() in ruby.h... yes
+checking for rb_category_warn() in ruby.h... yes
+checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
+creating Makefile
+
+current directory: /Users/anwarsheluchin/repos/AS-ePortfolio/vendor/bundle/ruby/4.0.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260128-54943-w0hy8f sitelibdir\=./.gem.20260128-54943-w0hy8f clean
+
+current directory: /Users/anwarsheluchin/repos/AS-ePortfolio/vendor/bundle/ruby/4.0.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260128-54943-w0hy8f sitelibdir\=./.gem.20260128-54943-w0hy8f
+compiling bigdecimal.c
+compiling missing.c
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+1 warning generated.
+linking shared-object bigdecimal.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/4.0.1/lib/libruby.4.0.dylib) was built for newer macOS version (14.0) than being linked (11.1)
+
+current directory: /Users/anwarsheluchin/repos/AS-ePortfolio/vendor/bundle/ruby/4.0.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260128-54943-w0hy8f sitelibdir\=./.gem.20260128-54943-w0hy8f install
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20260128-54943-w0hy8f
+
+current directory: /Users/anwarsheluchin/repos/AS-ePortfolio/vendor/bundle/ruby/4.0.0/gems/bigdecimal-4.0.1/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20260128-54943-w0hy8f sitelibdir\=./.gem.20260128-54943-w0hy8f clean

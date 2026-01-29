@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "ffi", "~> 1.15.5"
+gem "jekyll", "~> 3.9"
+gem "minima"
+gem "base64"
+gem "bigdecimal"
+gem "drb"
+gem "mutex_m"
+gem "kramdown-parser-gfm"
