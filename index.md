@@ -4,8 +4,6 @@ title: Home
 order: 1
 ---
 
-## About Me
-
 <style>
   .profile-img {
     display: block;

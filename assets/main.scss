@@ -1,0 +1,42 @@
+---
+---
+@import "minima";
+
+/**
+ * Reduce whitespace for a tighter, more professional look
+ */
+
+/* 1. Make the header more compact */
+.site-header {
+  min-height: auto; /* Remove default large height */
+  padding: 15px 0;  /* Reduce vertical padding */
+  border-top: none; /* Optional cleaner look */
+}
+
+/* 2. Reduce spacing around the main content */
+.page-content {
+  padding: 30px 0; /* Default is often much larger */
+}
+
+/* 3. Compact the footer */
+.site-footer {
+  padding: 20px 0;
+}
+
+/* 4. Adjust headings to take less vertical space */
+h1, h2, h3 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+/* Specific fix for the Home page title if it feels too detached */
+.post-title {
+  margin-bottom: 0.5em;
+}
+
+/* On mobile, allow the image to sit tighter with text */
+@media (max-width: 600px) {
+  .profile-img {
+    margin-bottom: 10px;
+  }
+}
