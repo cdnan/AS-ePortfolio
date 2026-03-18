@@ -36,6 +36,17 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 *   **Doctoral Fellow (2020-Present)**, Digital Society Lab
 *   **Doctoral Fellow (2025-2026)**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
 
+### Learning Goals
+
+As a CAnD3 Doctoral Fellow, I've structured my fellowship around four learning goals that reflect both my academic development and my commitment to producing research that reaches beyond the university.
+
+1. Deepen my theoretical and methodological expertise through rigorous research, ongoing scholarly engagement and collaborative projects.
+2. Strengthen and expand my technical skill set — particularly in data analysis and visualization — and apply these skills to solve complex, real-world problems.
+3. Improve my ability to communicate research insights to diverse audiences through publications, presentations and digital platforms.
+4. Pursue opportunities to translate academic research into practical solutions that benefit communities, organizations or industry partners.
+
+The projects, publications and media featured in this portfolio each connect back to one or more of these goals. I've included reflections alongside each project to make those connections explicit and to document what I've learned along the way.
+
 ### Professional Profiles
 
 *   [Google Scholar](https://scholar.google.com/citations?user=P9Z3VYQAAAAJ&hl=en)
