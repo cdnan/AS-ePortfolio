@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 order: 3
 ---
+My research has been published in both academic journals and popular press outlets, reflecting my commitment to reaching diverse audiences.
 
 ### Peer-reviewed
 
