@@ -33,8 +33,8 @@ I hold the position of Doctoral Fellow at McMaster University’s Digital Societ
 ### Affiliations
 
 *   **Ph.D. Candidate**, Political Science, McMaster University
-*   **Doctoral Fellow (2025-2026)**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
 *   **Doctoral Fellow (2020-Present)**, Digital Society Lab
+*   **Doctoral Fellow (2025-2026)**, Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
 
 ### Professional Profiles
 
