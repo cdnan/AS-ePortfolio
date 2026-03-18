@@ -7,7 +7,7 @@ order: 3
 
 ### Peer-reviewed
 
-Porter, Tony, and Anwar Sheluchin. 2022. [“Canada and global financial governance in a troubled global order.”](https://doi.org/10.1007/978-3-031-04368-0_6.) In: Carment, D., Macdonald, L., Paltiel, J. (eds) Canada and Great Power Competition: Canada and International Affairs. Palgrave Macmillan. 
+Porter, Tony, and Anwar Sheluchin. 2022. [“Canada and global financial governance in a troubled global order.”](https://link.springer.com/chapter/10.1007/978-3-031-04368-0_6) In: Carment, D., Macdonald, L., Paltiel, J. (eds) Canada and Great Power Competition: Canada and International Affairs. Palgrave Macmillan. 
 
 Sheluchin, Anwar, and Tony Porter. 2021. “Business and financial regulation.” In Kellow, A., Porter, T., Ronit, K. (eds) Handbook of Business and Public Policy. UK: Edward Elgar Publishing.
 
