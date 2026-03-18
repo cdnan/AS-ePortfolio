@@ -26,7 +26,11 @@ What makes this particularly interesting is the unexpected fault lines I discove
 
 This research provides a baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
-**Reflection:** This project combines empirical analysis with a topic of growing societal, economic and political relevance — one that spans academic research, financial services, technology policy and consumer behaviour. Working with original survey data across three provinces pushed me to make careful decisions about how to visualize distributional data across multiple demographic groups in a way that was both rigorous and accessible (Goal 2). Writing up the findings for this portfolio, rather than for an academic audience, also challenged me to communicate statistical patterns as a narrative that non-specialists could engage with (Goal 3). The policy implications of this work — that public skepticism creates real barriers for regulators and industry actors exploring cryptocurrency initiatives — reflect my broader goal of producing research with practical relevance beyond the university (Goal 4).
+**Reflection:** This project combines empirical analysis with a topic of growing societal, economic and political relevance — one that spans academic research, financial services, technology policy and consumer behaviour. Working with original survey data across three provinces pushed me to make careful decisions about how to visualize distributional data across multiple demographic groups in a way that was both rigorous and accessible. Writing up the findings for this portfolio, rather than for an academic audience, also challenged me to communicate statistical patterns as a narrative that non-specialists could engage with. The policy implications of this work — that public skepticism creates real barriers for regulators and industry actors exploring cryptocurrency initiatives — reflect my broader goal of producing research with practical relevance beyond the university.
+
+Goal 2 ✅
+Goal 3 ✅
+Goal 4 ✅
 
 
 ### 2. The Impact of Framing and Elite Cues on Public Attitudes: The Case of Central Bank Digital Currencies
@@ -41,7 +45,11 @@ This matters because central banks worldwide are navigating increasingly politic
   <img alt="marginaleffects" src="https://github.com/user-attachments/assets/9085bb74-a920-48bf-a3f1-f6dfba996a5d" style="max-width: 560px; width: 100%; height: auto;"/>
   </div>
 
-**Reflection:** This project pushes beyond descriptive analysis into experimental methodology — testing not just what people think, but whether their views can be moved. Designing a survey experiment with colleagues deepened my methodological expertise and gave me hands-on experience with causal inference techniques in a real policy context (Goal 1). The finding that most elite messaging fell flat, and that political endorsements only shifted opinion among partisans, forced me to think carefully about how to present null and unexpected results in a way that was still compelling and policy-relevant (Goal 3). This project also connects to my goal of translating research into practical insight (Goal 4) — the findings have direct implications for central banks and policymakers trying to build public legitimacy for digital currency initiatives in an era of institutional skepticism.
+**Reflection:** This project pushes beyond descriptive analysis into experimental methodology, testing not just what people think, but whether their views can be moved. Designing a survey experiment with colleagues deepened my methodological expertise and gave me hands-on experience with causal inference techniques in a real policy context. The finding that most elite messaging fell flat, and that political endorsements only shifted opinion among partisans, forced me to think carefully about how to present null and unexpected results in a way that was still compelling and policy-relevant. This project also connects to my goal of translating research into practical insight, the findings have direct implications for central banks and policymakers trying to build public legitimacy for digital currency initiatives in an era of institutional skepticism.
+
+Goal 1 ✅
+Goal 3 ✅
+Goal 4 ✅
 
 ### 3. CryptoCommons: Tracking Canada's Digital Currency Policy Debates
 
@@ -51,4 +59,8 @@ I created [CryptoCommons.ca](https://cryptocommons.ca/), a public database that 
 
 See my presentation about CryptoCommons.ca at the Future of Finance Summit: [CryptoCommons.ca Lightning Talk (PDF)](https://github.com/user-attachments/files/24912900/CryptoCommons_LightningTalk.pdf)
 
-**Reflection:** This project represents a different kind of contribution than the first two — rather than analyzing data, I built a tool to make data accessible. Creating CryptoCommons.ca required me to think about information architecture, database design and user experience in ways that go well beyond typical academic research (Goal 2). It also pushed me to consider what researchers, journalists and citizens actually need when trying to track policy debates — a practical design challenge that connects directly to my goal of translating academic work into something communities can use (Goal 4). Presenting this project at the Future of Finance Summit as a lightning talk was an exercise in distilling a complex resource into a concise, persuasive pitch for a non-academic audience (Goal 3).
+**Reflection:** This project represents a different kind of contribution than the first two — rather than analyzing data, I built a tool to make data accessible. Creating CryptoCommons.ca required me to think about information architecture, database design and user experience in ways that go well beyond typical academic research. It also pushed me to consider what researchers, journalists and citizens actually need when trying to track policy debates, a practical design challenge that connects directly to my goal of translating academic work into something communities can use. Presenting this project at the Future of Finance Summit as a lightning talk was an exercise in distilling a complex resource into a concise, persuasive pitch for a non-academic audience.
+
+Goal 2 ✅
+Goal 3 ✅
+Goal 4 ✅
