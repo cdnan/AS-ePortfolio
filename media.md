@@ -4,10 +4,9 @@ title: Media
 permalink: /media/
 order: 4
 ---
+The following features and interviews highlight how my research has contributed to public conversations around digital currency policy in Canada.
 
 ### Featured Articles
-
-The following features and interviews highlight how my research has contributed to public conversations around digital currency policy in Canada.
 
 [Canada lags behind as world leaders move towards stablecoin](https://cfotech.ca/story/canada-lags-behind-as-world-leaders-move-towards-stablecoin). 3 September 2025.
 - Quoted in an article published on TechDay Canada, Canada's technology news network.
