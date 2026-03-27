@@ -4,6 +4,38 @@ title: Projects
 permalink: /projects/
 order: 2
 ---
+<style>
+.code-collapse {
+  max-width: 580px;
+  margin: 0.25rem auto 1.5rem;
+  text-align: center;
+}
+.code-collapse summary {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: #656d76;
+  cursor: pointer;
+  padding: 0.2rem 0;
+  transition: color 0.15s;
+}
+.code-collapse summary:hover {
+  color: #24292f;
+}
+.code-collapse pre {
+  text-align: left;
+  background: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  margin-top: 0.5rem;
+  overflow-x: auto;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.78rem;
+  line-height: 1.65;
+  color: #24292f;
+  white-space: pre;
+}
+</style>
 
 ### 1. Understanding Canadian Attitudes Toward Cryptocurrency
 
@@ -12,17 +44,72 @@ Everyone has heard of cryptocurrency, but what do Canadians actually think about
 <div style="text-align: center;">
   <img width="560" alt="awareness" src="https://github.com/user-attachments/assets/353af6a8-1347-4249-845f-f845117f21e2" style="height: auto;" />
 </div>
-
+<details class="code-collapse">
+<summary>Show R code</summary>
+<pre>ggplot(awareness, aes(x = aware, y = Percentage, fill = Group)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  geom_text(aes(label = Percentage),
+            position = position_dodge(width = 0.9),
+            vjust = -0.3, size = 3) +
+  scale_fill_manual(values = c("grey", "#7393B3", "black")) +
+  labs(y = "Percentage (%)", fill = "", x = "",
+       title = "Have you heard of cryptocurrencies (e.g., Bitcoin or Ethereum?)") +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  guides(fill = guide_legend())</pre>
+</details>
 <div style="text-align: center;">
   <img width="560" alt="ownership" src="https://github.com/user-attachments/assets/219790bd-2b4e-4029-a96f-8479a197db20" style="height: auto;" />
 </div>
+<details class="code-collapse">
+<summary>Show R code</summary>
+<pre>ggplot(ownCrypto, aes(x = ownership, y = Percentage, fill = Group)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  geom_text(aes(label = Percentage),
+            position = position_dodge(width = 0.9),
+            vjust = -0.3, size = 3) +
+  scale_fill_manual(values = c("grey", "#7393B3", "black")) +
+  labs(y = "Percentage (%)", fill = "", x = "",
+       title = "Do you currently own any cryptocurrencies?") +
+  theme_minimal() +
+  theme(legend.position = "bottom") +
+  guides(fill = guide_legend())</pre>
+</details>
 
 
 What makes this particularly interesting is the unexpected fault lines I discovered. Rather than simple left-right political divides, the real story is generational. Younger and older members of the same political parties hold dramatically different views on cryptocurrency. These generational rifts within party coalitions could reshape how Canada approaches fintech regulation in the years ahead.
 
 <div style="text-align: center;">
-  <img alt="attitudes" src="https://github.com/user-attachments/assets/2c146318-4090-417a-89f4-f0b029f5028d" style="max-width: 560px; width: 100%; height: auto;" />
+  <img alt="attitude_age" src="https://github.com/user-attachments/assets/85d510e4-ff33-4719-97c7-1ee2521fa8f5" style="max-width: 560px; width: 100%; height: auto;" />
 </div>
+<details class="code-collapse">
+<summary>Show R code</summary>
+<pre>ggplot(attitudes_age,
+       aes(x = attitudes, y = Percentage, fill = age_group)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.9)) +
+  geom_errorbar(
+    aes(ymin = pmax(Percentage - MoE, 0),
+        ymax = pmin(Percentage + MoE, 100)),
+    position = position_dodge(width = 0.9),
+    width = 0.2,
+    color = "black"
+  ) +
+  scale_fill_manual(values = c(
+    "#E6EDF3","#C9D6E3","#A9BCD0",
+    "#8CA2BD","#6E88A8","#4F6E92","#2F567C"
+  )) +
+  labs(
+    y = "Percentage (%)",
+    fill = "",
+    x = "",
+    title = "How would you describe your opinion about cryptocurrencies in general?",
+    caption = "Source: Authors calculations \nn=43,382"
+  ) +
+  theme_minimal(base_family = "sans") +
+  theme(
+    plot.title = element_text(size = 14),
+    legend.position = "bottom")</pre>
+</details>
 
 This research provides a baseline of Canadian cryptocurrency attitudes and reveals why digital currencies, despite their ubiquity in financial news, continue struggling to gain public legitimacy. As policymakers grapple with how to regulate this space, understanding these public opinion dynamics becomes crucial.
 
@@ -42,8 +129,18 @@ But my experimental research revealed something surprising: it doesn't always wo
 This matters because central banks worldwide are navigating increasingly politicized environments. If elite cues can't effectively build public support for technical monetary innovations, even in a "most likely" scenario with low public knowledge, it suggests the mechanisms of elite influence are more fragile than we thought. The findings challenge assumptions about how central bank legitimacy is built and sustained in an era of growing skepticism toward institutions.
 
 <div style="text-align: center;">
-  <img alt="marginaleffects" src="https://github.com/user-attachments/assets/9085bb74-a920-48bf-a3f1-f6dfba996a5d" style="max-width: 560px; width: 100%; height: auto;"/>
-  </div>
+  <img alt="prime-plot" src="https://github.com/user-attachments/assets/ef5a898b-acd2-4bc8-86ef-13da18776d45" style="max-width: 560px; width: 100%; height: auto;"/>
+</div>
+<details class="code-collapse">
+<summary>Show R code</summary>
+<pre>ggplot(results, aes(x = estimate, y = term)) +
+  geom_point(size = 3) +
+  geom_errorbarh(aes(xmin = conf.low, xmax = conf.high), height = 0) +
+  geom_vline(xintercept = 0, linetype = "dashed", color = "red") +
+  labs(x = "Marginal Effect", y = "") +
+  theme_minimal()</pre>
+</details>
+
 
 **Reflection:** This project pushes beyond descriptive analysis into experimental methodology, testing not just what people think, but whether their views can be moved. Designing a survey experiment with colleagues deepened my methodological expertise and gave me hands-on experience with causal inference techniques in a real policy context. The finding that most elite messaging fell flat, and that political endorsements only shifted opinion among partisans, forced me to think carefully about how to present null and unexpected results in a way that was still compelling and policy-relevant. This project also connects to my goal of translating research into practical insight, the findings have direct implications for central banks and policymakers trying to build public legitimacy for digital currency initiatives in an era of institutional skepticism.
 
